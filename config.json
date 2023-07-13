@@ -1,6 +1,6 @@
 {
   "server": "megantoots.com",
-  "home-timeline-length": 200,
+  "home-timeline-length": 100,
   "max-followings": 5,
   "max-bookmarks": 5,
   "max-favourites": 5,
